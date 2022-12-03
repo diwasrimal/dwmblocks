@@ -11,7 +11,7 @@ Blocks are added and removed by editing the blocks.h header file.
 By default the blocks.h header file is created the first time you run make which copies the default config from blocks.def.h.
 This is so you can edit your status bar commands and they will not get overwritten in a future update.
 
-Scripts used in `blocks.h` are from my [dotfiles](https://github.com/diwasrimal/dotfiles.git) 
+Scripts used in `blocks.h` are located at `~/.local/bin/` in my [dotfiles](https://github.com/diwasrimal/dotfiles.git) 
 
 # patches
 Here are some patches to dwmblocks that add features that I either don't want to merge in, or that require a dwm patch to work.
